@@ -3,7 +3,7 @@ const allowedCors = [
   'https://axexpozdniak.nomoredomainsrocks.ru',
   'http://axexpozdniak.nomoredomainsrocks.ru',
   'https://api.alexpozdniak.nomoredomainsrocks.ru/users/me',
-  'https://api.alexpozdniak.nomoredomainsrocks.ru/cards',
+  'https://api.alexpozdniak.nomoredomainsrocks.ru/movies',
   'https://api.alexpozdniak.nomoredomainsrocks.ru/signup',
   'http://localhost:3000',
   'http://localhost:3001',
